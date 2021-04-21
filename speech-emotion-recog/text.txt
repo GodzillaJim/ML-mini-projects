@@ -1,0 +1,6 @@
+1. Open the sound file with soundfile
+2. Call it X, get the sample rate.
+3. If chroma is True, get Short TIme Fourier Transform of X
+4. For each feature, it available get mean using librosa
+5. Stack the result in sequence,
+6. Return the result
