@@ -15,4 +15,8 @@ They include:<br>
 
 > **3. Color Detector**
 >
-> > <p>This app detects and displays a color clicked on an image passed as a parameter. I used the dataset from this project <a href='https://github.com/codebrainz/color-names/blob/master/output/colors.csv'>here</a>.</p>
+> > <p>This app detects and displays a color clicked on an image passed as a parameter. I used the dataset from this project <a href='https://github.com/codebrainz/color-names/blob/master/output/colors.csv'>here</a>.</p><br>
+
+> **4. Speech Emotion Recognition**
+>
+> > <p>This model recognizes emotions in speech. It uses librosa and an MLPClassifier, and trained on part of the RAVDESS dataset found <a href='https://zenodo.org/record/1188976#.YIAp5VMza00'>here</a>, attaining an accuracy of 74%.</p>
